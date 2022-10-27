@@ -1,0 +1,83 @@
+body {
+  overflow: hidden;
+}
+
+html {
+  overflow: overlay;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.banner {
+  background-color: #0c0a0b;
+}
+
+.navbar-nav a {
+  margin-left: 60px;
+  color: #b59d8a;
+  font-size: 20px;
+}
+
+.navbar-nav a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.banner-containt {
+  color: #ffffff;
+}
+
+.main {
+  color: #FCF3CF;
+}
+
+.main2 {
+  font-weight: bold;
+  font-size: 28px;
+  letter-spacing: 2px;
+}
+
+.container-fluid .navbar-brand {
+  font-weight: bold;
+  font-size: 28px;
+  letter-spacing: 2px;
+  color: #b59d8a;
+
+}
+
+.container-fluid .navbar-brand:hover {
+  color: #ffffff;
+}
+
+.btns .btn1 {
+  background-color: #b39b88;
+  color: #ffffff;
+  padding: 8px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 6px;
+  margin-right: 20px;
+
+}
+
+.btn-main .btn2 {
+  background-color: chocolate;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 8px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+
+}
+
+ .row .line{
+ background-color: #999999;
+ height: 3px;
+
+
+}
+
