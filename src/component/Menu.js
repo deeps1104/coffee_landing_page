@@ -5,7 +5,7 @@ import Nav from './Nav'
 const Menu = () => {
   return (
     <div>
-      <Nav/>
+      <Nav/>    
      <div>
       <h1>Discover <br /> Best Coffee Sellers</h1>
       <p>
